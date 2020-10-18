@@ -1,7 +1,7 @@
 import UIKit
 
 /// Find factorial of given number
-/// - Parameter number: number for find factorial
+/// - Parameter number: number for find factorial is
 /// - Returns: array of factorials
 private func findFactorials(number: Int) -> [Int] {
     var arrayOfFactorials = [Int]()
